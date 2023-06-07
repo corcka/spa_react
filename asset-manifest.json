@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spa_react/static/css/main.bdc6563e.css",
+    "main.js": "/spa_react/static/js/main.bed458fa.js",
+    "index.html": "/spa_react/index.html",
+    "main.bdc6563e.css.map": "/spa_react/static/css/main.bdc6563e.css.map",
+    "main.bed458fa.js.map": "/spa_react/static/js/main.bed458fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdc6563e.css",
+    "static/js/main.bed458fa.js"
+  ]
+}
